@@ -11,6 +11,7 @@ int main()
 
 	std::cout << "Hey Amy, I really hope you get this!" << endl;
 	std::cout << "And perhaps this.";
+	std::cout << "I had to change my credentials to generic in the control panel.";
 
 }
 
